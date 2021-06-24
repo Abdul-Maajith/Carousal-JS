@@ -1,1 +1,1 @@
-# Carousal-JS
+# Carousal Using JS
